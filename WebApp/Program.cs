@@ -10,6 +10,9 @@ var x3 = 3;
 var x4 = 3;
 var x5 = 3;
 
+
+var m1 = 1;
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
