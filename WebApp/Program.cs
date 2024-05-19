@@ -7,6 +7,7 @@ var app = builder.Build();
 var x = 1;
 var x2 = 2;
 var x3 = 3;
+var x4 = 3;
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
